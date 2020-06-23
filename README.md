@@ -8,11 +8,11 @@ To run: `java Ian`
 
 Example:
 
-![user input](https://github.com/eea15/small-java-projects/Scheduler/subjects.png?raw=true)
 1. User inputs hw subjects
-
+<img src="https://github.com/eea15/small-java-projects/blob/master/Scheduler/subjects.PNG?raw=true" width="500" height="350">
 
 2. User blocks off time for other activities
-
+<img src="https://github.com/eea15/small-java-projects/blob/master/Scheduler/busy.PNG?raw=true" width="400" height="250">
 
 3. Schedule generated
+<img src="https://github.com/eea15/small-java-projects/blob/master/Scheduler/final.PNG?raw=true" width="400" height="250">

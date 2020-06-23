@@ -8,7 +8,7 @@ To run: `java Ian`
 
 Example:
 
-![user input](https://github.com/eea15/small-java-projects/blob/master/input.png?raw=true)
+![user input](https://github.com/eea15/small-java-projects/Scheduler/master/input.png?raw=true)
 1. User inputs hw subjects
 
 
